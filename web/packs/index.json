@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "LastDarkness.json"
+  ],
+  "homeserver_url": "https://matrix.fedibird.com"
+}
